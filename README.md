@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GokulQBS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate EMail Chats
 - 📫 mail me at gokul@qbrainstorm.com
 
 <!---
